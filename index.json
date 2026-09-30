@@ -1,0 +1,142 @@
+[
+  {
+    "id": "cinematic-teal-orange",
+    "name": "电影青橙",
+    "desc": "好莱坞式青橙色调，暗部偏青、肤色暖橙",
+    "tags": ["电影感", "人像", "街拍"],
+    "temperature": 0.2,
+    "tint": -0.05,
+    "contrast": 0.15,
+    "saturation": 0.1
+  },
+  {
+    "id": "black-gold",
+    "name": "黑金",
+    "desc": "压暗冷色留下金色高光，夜景高级感",
+    "tags": ["夜景", "城市", "高级"],
+    "brightness": -0.05,
+    "contrast": 0.2,
+    "saturation": -0.3,
+    "temperature": 0.35
+  },
+  {
+    "id": "candy",
+    "name": "糖果",
+    "desc": "高饱和高明度的甜美糖果色",
+    "tags": ["甜美", "人像", "美食"],
+    "brightness": 0.12,
+    "contrast": -0.05,
+    "saturation": 0.3,
+    "tint": 0.08
+  },
+  {
+    "id": "matcha",
+    "name": "抹茶",
+    "desc": "清淡低饱和的抹茶绿调",
+    "tags": ["清新", "日系", "静物"],
+    "redShift": -8,
+    "greenShift": 15,
+    "brightness": 0.05,
+    "saturation": -0.05
+  },
+  {
+    "id": "blue-hour",
+    "name": "蓝调时刻",
+    "desc": "日落后二十分钟的静谧蓝调",
+    "tags": ["风景", "夜景", "冷调"],
+    "blueShift": 22,
+    "contrast": 0.1,
+    "temperature": -0.25
+  },
+  {
+    "id": "portrait-soft",
+    "name": "柔光人像",
+    "desc": "柔化皮肤质感，微微提亮",
+    "tags": ["人像", "柔美"],
+    "brightness": 0.06,
+    "contrast": -0.1,
+    "saturation": 0.05,
+    "fade": 0.15
+  },
+  {
+    "id": "night-neon",
+    "name": "夜景霓虹",
+    "desc": "提升暗部与饱和，霓虹夜色更通透",
+    "tags": ["夜景", "城市", "赛博"],
+    "contrast": 0.2,
+    "shadows": 0.15,
+    "saturation": 0.25,
+    "temperature": -0.1,
+    "tint": 0.1
+  },
+  {
+    "id": "food-delicious",
+    "name": "美味",
+    "desc": "暖调加饱和，食物更有食欲",
+    "tags": ["美食", "暖调"],
+    "brightness": 0.04,
+    "contrast": 0.08,
+    "saturation": 0.2,
+    "temperature": 0.15
+  },
+  {
+    "id": "seaside",
+    "name": "海边晴空",
+    "desc": "蓝天更蓝，画面更通透",
+    "tags": ["风景", "海边", "清新"],
+    "blueShift": 15,
+    "brightness": 0.08,
+    "saturation": 0.15
+  },
+  {
+    "id": "autumn",
+    "name": "秋日",
+    "desc": "暖金黄秋意，适合落叶与人像",
+    "tags": ["风景", "暖调", "复古"],
+    "redShift": 15,
+    "contrast": 0.05,
+    "saturation": 0.1,
+    "temperature": 0.3
+  },
+  {
+    "id": "snow",
+    "name": "雪原",
+    "desc": "高亮低饱和的干净冷白皮",
+    "tags": ["风景", "冷调", "极简"],
+    "brightness": 0.18,
+    "contrast": -0.08,
+    "saturation": -0.1,
+    "temperature": -0.2
+  },
+  {
+    "id": "old-street",
+    "name": "老街",
+    "desc": "褪色暖调，旧时光烟火气",
+    "tags": ["街拍", "复古", "胶片"],
+    "contrast": 0.05,
+    "fade": 0.25,
+    "saturation": -0.15,
+    "temperature": 0.1
+  },
+  {
+    "id": "cyberpunk",
+    "name": "赛博朋克",
+    "desc": "品红与青蓝对冲的未来感",
+    "tags": ["夜景", "赛博", "城市"],
+    "blueShift": 10,
+    "contrast": 0.25,
+    "saturation": 0.2,
+    "temperature": -0.15,
+    "tint": 0.25
+  },
+  {
+    "id": "morandi",
+    "name": "莫兰迪",
+    "desc": "低饱和高级灰，安静克制",
+    "tags": ["静物", "人像", "极简"],
+    "brightness": 0.05,
+    "contrast": -0.1,
+    "fade": 0.1,
+    "saturation": -0.35
+  }
+]
